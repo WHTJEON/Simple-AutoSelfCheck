@@ -1,4 +1,4 @@
-# NEIS Auto Self Check 
+# NEIS 자동 자가진단 v.1.0.0 beta
 
 현 2020년 9월 기준, NEIS 건강 자가진단을 무증상 시 간편하게 할 수 있는 프로그램입니다. <br>
 **(유증상이 있을 경우, 반드시 수동으로 진행해주시기 바랍니다)**
@@ -15,11 +15,11 @@ Windows (윈도우) 사용자 - [다운로드 링크](http://bit.ly/vank0n-windo
 
 Mac (맥) 사용자 - [다운로드 링크](http://bit.ly/vank0n-mac)
 
-#### 설치 후 필수 과정 
+### 설치 후 개인정보 입력 (필수)
 
 [user_data.json](./user_data.json)에 개인정보를 입력하고 저장하세요
 ```
-# user_data.json 
+# (sample) user_data.json 
 {
     "city": "01",
     "school_level": "4",
@@ -65,7 +65,7 @@ Mac (맥) 사용자 - [다운로드 링크](http://bit.ly/vank0n-mac)
 
 ## 개발자
 
-* **Vank0n (SJJeon)**
+* **Vank0n (SJJeon)** - [GitHub](
 
 ## 라이센스
 
