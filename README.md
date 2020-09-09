@@ -65,7 +65,7 @@ Mac (맥) 사용자 - [다운로드 링크](http://bit.ly/vank0n-mac)
 
 ## 개발자
 
-* **Vank0n (SJJeon)** - [GitHub](
+* **Vank0n (SJJeon)** 
 
 ## 라이센스
 
