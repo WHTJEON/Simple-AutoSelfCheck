@@ -9,15 +9,16 @@
 
 ### 설치하기
 
-Windows (윈도우) 사용자 - [다운로드 링크](http://bit.ly/vank0n-windows)
+* Windows (윈도우) 사용자 - [다운로드 링크](http://bit.ly/vank0n-windows)
 
-Mac (맥) 사용자 - [다운로드 링크](http://bit.ly/vank0n-mac)
+* Mac (맥) 사용자 - [다운로드 링크](http://bit.ly/vank0n-mac)
 
 ### 설치 후 개인정보 입력 (필수)
 
-[user_data.json](./user_data.json) 에 개인정보를 입력하고 저장하십시오. 
+* [user_data.json](./user_data.json) 에 개인정보를 입력하고 저장하십시오. 
 ```
 # (sample) user_data.json 
+
 {
     "city": "01",
     "school_level": "4",
