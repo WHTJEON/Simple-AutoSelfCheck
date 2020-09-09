@@ -6,7 +6,7 @@
 
 ### 구동환경
 
-Chrome이 설치된 모든 Windows, MAC 기기 
+* Chrome이 설치된 모든 Windows, MAC 기기 
 
 
 ### 설치하기
